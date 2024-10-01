@@ -36,6 +36,8 @@ __*게임영상테스트*__</br>
 
 </br></br>
 
-[마이노션](https://atentsgamedesign.notion.site/UXUI-58fbd6f6b6594252afe75f2e6078dd36?pvs=4)
+[좋아하는게임]
 </br></br>
-[레퍼런스게임](https://youtu.be/vM14K2pjYjk?si=QHkODdaMqXpg9Ux7)
+[레퍼런스게임] 
+</br></br>
+[목표회사](https://www.nexon.com/Home/Game)
